@@ -13,17 +13,17 @@ This is my portfolio on data science (DS), machine learning (ML) and natural lan
 |Date   | Spark, Hadoop, HDFS, BWA |
 
 
-## <a href=https://github.com/kckenneth/YOLO>2. Object Identification (YOLO)</a>
+### <a href=https://github.com/kckenneth/YOLO>2. Object Identification (YOLO)</a>
 
 
-## <a href=https://github.com/kckenneth/Cassandra>3. Twitter Popularity in real time</a>
+### <a href=https://github.com/kckenneth/Cassandra>3. Twitter Popularity in real time</a>
 
 
-## <a href=https://github.com/kckenneth/GPFS_setup_mumbler>4. Word mumlber</a> 
+### <a href=https://github.com/kckenneth/GPFS_setup_mumbler>4. Word mumlber</a> 
 
 
-## <a href=https://github.com/kckenneth/statistics_fights_crime>5. Statistics Fight Crime</a>
+### <a href=https://github.com/kckenneth/statistics_fights_crime>5. Statistics Fight Crime</a>
 
 
-## <a href=https://github.com/kckenneth/EduFirm>6. Exam score in real time</a>
+### <a href=https://github.com/kckenneth/EduFirm>6. Exam score in real time</a>
 
