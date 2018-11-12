@@ -19,7 +19,7 @@ Skills: Docker, YOLO (You Only Look Once)
 
 Skills: Spark, Cassandra
 
-### <a href=https://github.com/kckenneth/GPFS_setup_mumbler>4. Word mumlber</a> 
+### <a href=https://github.com/kckenneth/GPFS_setup_mumbler>4. Word mumbler</a> 
 
 Skills: Spark, GPFS, Flask, Sqlite3
 
